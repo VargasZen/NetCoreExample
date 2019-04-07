@@ -1,0 +1,14 @@
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Api\bin\Debug\netcoreapp2.2\Api.dll
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\bin\Debug\netcoreapp2.2\Api.deps.json
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.dll
+D:\Proyectos de Vargas\NetCore\NetCoreExample\api\obj\Debug\netcoreapp2.2\Api.pdb
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Api\bin\Debug\netcoreapp2.2\Api.pdb

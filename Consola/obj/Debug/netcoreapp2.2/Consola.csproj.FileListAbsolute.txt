@@ -1,0 +1,11 @@
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\bin\Debug\netcoreapp2.2\Consola.deps.json
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\bin\Debug\netcoreapp2.2\Consola.runtimeconfig.json
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\bin\Debug\netcoreapp2.2\Consola.runtimeconfig.dev.json
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\bin\Debug\netcoreapp2.2\Consola.dll
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\bin\Debug\netcoreapp2.2\Consola.pdb
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\obj\Debug\netcoreapp2.2\Consola.csprojAssemblyReference.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\obj\Debug\netcoreapp2.2\Consola.csproj.CoreCompileInputs.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\obj\Debug\netcoreapp2.2\Consola.AssemblyInfoInputs.cache
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\obj\Debug\netcoreapp2.2\Consola.AssemblyInfo.cs
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\obj\Debug\netcoreapp2.2\Consola.dll
+D:\Proyectos de Vargas\NetCore\NetCoreExample\Consola\obj\Debug\netcoreapp2.2\Consola.pdb
